@@ -3,7 +3,7 @@
 ## If you're interested in me, here's some info for you:
 * **Country:** Belarus 
 * **Languages:** English, Russian, Belorussian
-* **Birthday:** 04.06.2000
+* **Birthday:** 04.06.2000 (Zodiac sign: Gemini)
 * **Gender:** Female :3
 * **Pronouns:** She\her <33
 * **Favourite color:** White 
