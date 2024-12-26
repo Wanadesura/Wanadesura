@@ -1,6 +1,6 @@
-<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! (a.k.a. Lyra</h1>)
+<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! a.k.a. Lyra</h1>
 
-## Some info about me:
+## If you're interested in me, here's some info for you:
 * **Country:** Belarus 
 * **Languages:** English, Russian, Belorussian
 * **Birthday:** 04.06.2000
