@@ -10,8 +10,8 @@
  * Profession: Programmer
 * Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda)
 
-- * **Favourite games: Baldi Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
-- * **Hobby: I absolutely love drawing ponies! I think that it's the most perfect hobby for such a person like me 
+- * **Favourite games:** Baldi Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
+- * **Hobby:** I absolutely love drawing ponies! I think that it's the most perfect hobby for such a person like me 
 
 * Favourite ponies: Snowfall Frost, Octavia Melody and Twilight Sparkle
 
