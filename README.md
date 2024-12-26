@@ -15,7 +15,7 @@
 
 * Favourite ponies: Snowfall Frost, Octavia Melody amd Twilight Sparkle
 
-### I have no idea on what to put here though, so you might as well just contact me :_) my discord: _wanadecrypt0r
+### I literally have no idea on what to put here though, so you might as well just contact me :_) my discord: _wanadecrypt0r
 I love y'all! <33
 
 
