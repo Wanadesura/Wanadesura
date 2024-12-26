@@ -9,7 +9,7 @@
 * **Favourite color:** White 
  * Profession: Programmer
 * Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda)
-* **My certifications:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT)
+* **My certifications:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA
 
 - * **Favourite games:** Baldi Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
 - * **Hobby:** I absolutely love drawing ponies! I think that it's the most perfect hobby for such a person like me 
