@@ -8,7 +8,7 @@
 * **Pronouns:** She\her <33
 * **Favourite color:** White 
  * Profession: Programmer
-* Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda) and a lil' bit of Assembly, PowerShell (Yup. Powershell is a scripting language)
+* Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda) and a lil' bit of Assembly, PowerShell (Yup. PowerShell is a scripting language)
 * **My certifications:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA
 
 - * **Favourite games:** Baldi's Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
