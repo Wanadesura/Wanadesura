@@ -1,14 +1,14 @@
-<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! a.k.a. Lyra</h1>
+<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! (a.k.a. Lyra</h1>)
 
 ## Some info about me:
-* **Country:** Belarus 🗺
+* **Country:** Belarus 
 * **Languages:** English, Russian, Belorussian
 * **Birthday:** 04.06.2000
 * **Gender:** Female :3
 * **Pronouns:** She\her <33
 * **Favourite color:** White 
  * Profession: Programmer
-* Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim
+* Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda)
 
 - * **Favourite games: Baldi Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
 - * **Hobby: I absolutely love drawing ponies! I think that it's the most perfect hobby for such a person like me 
