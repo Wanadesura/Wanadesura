@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! I'm WanaDecrypt0r2.0! a.k.a. Lyra</h1>
+<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! a.k.a. Lyra</h1>
 
 ## Some info about me:
 * **Country:** Belarus 🗺
@@ -10,5 +10,5 @@
  * Profession: Programmer
 * Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim
 
-### I have no idea on what to put here though, so you might as well just contact me.. my discord: _wanadecrypt0r
+### I have no idea on what to put here though, so you might as well just contact me :_) my discord: _wanadecrypt0r
 I love y'all! <33
