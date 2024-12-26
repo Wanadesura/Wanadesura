@@ -20,5 +20,4 @@ I love y'all! <33
 
 
 ## By the way, if you're interested in Kubernetes but you can't learn it yourself, you can contact me, I'll share my very own tutorials with you <3
-
-![5e1ead4c4d1582672efe499d31965efb](https://github.com/user-attachments/assets/7d879dad-6030-4f52-8dbb-900bfdc212fb)
+* ![5e1ead4c4d1582672efe499d31965efb](https://github.com/user-attachments/assets/7d879dad-6030-4f52-8dbb-900bfdc212fb)
