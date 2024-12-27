@@ -17,8 +17,7 @@
 * Favourite ponies: Snowfall Frost, Octavia Melody and Twilight Sparkle
 
 ### I literally have no idea on what to put here though, so you might as well just contact me :_) my discord: _wanadecrypt0r
-I love y'all! <33
-
+I love y'all! <33 (Anyway, there will be no codes or projects here.)
 
 ## By the way, if you're interested in Kubernetes but you can't learn it yourself, you can contact me, I'll share my very own tutorials with you <3
 * ![5e1ead4c4d1582672efe499d31965efb](https://github.com/user-attachments/assets/7d879dad-6030-4f52-8dbb-900bfdc212fb)
