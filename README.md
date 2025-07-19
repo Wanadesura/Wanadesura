@@ -6,7 +6,7 @@ However, I'm mostly known for torturing my windows VM with LOTS of malwares >;3
 
 **I'm Wanadesura, but you can call me Lyra.**
 
-<img align="right" alt="Wanadesura" width="190" src="https://github.com/Wanadesura/Wanadesura/blob/main/fluttershy.jpg" />
+<img align="right" alt="Wanadesura" width="199" src="https://github.com/Wanadesura/Wanadesura/blob/main/fluttershy.jpg" />
 
 ***P.S I'm still single xDD 🎀***
 
