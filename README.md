@@ -38,5 +38,5 @@ Well, I really enjoy watching [Siam Alam](https://www.youtube.com/@SiamAlamOffic
 ### Statistics
 [![Lyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanadesura&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-(Don't expect me to have good stats in this account XXDDD)
+(Don't expect me to have good stats on this account XXDDD)
 
