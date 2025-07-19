@@ -35,3 +35,8 @@ I love y'all! <3 (Anyway, there will be no codes or projects here.)
 
 Well, I really enjoy watching [Siam Alam](https://www.youtube.com/@SiamAlamOfficial) in my free time.
 
+### Statistics
+[![Lyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanadesura&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+(Don't expect me to have good stats in this account XXDDD)
+
