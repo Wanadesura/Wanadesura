@@ -1,23 +1,37 @@
-<h1 align="center">Hello there, my friend! I'm WanaDecrypt0r2.0! a.k.a. Lyra</h1>
+# Welcome. 👋
+![Wanadesura](https://github.com/Wanadesura/Wanadesura/blob/main/header.jpg)
 
-## If you're interested in me, here's some info for you:
-* **Country:** Belarus 
-* **Languages:** English, Russian, Belorussian
-* **Birthday:** 04.06.2000 (Zodiac sign: Gemini)
-* **Gender:** Female :3
-* **Pronouns:** She\her <33
-* **Favourite color:** White 
- * Profession: Programmer
-* Programming languages that I use: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Miranda) and a lil' bit of Assembly, PowerShell (Yup. PowerShell is a scripting language), HTML, Sass, CSS, PHP
-* **My certifications:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA
+I usually code in **Miranda** as a hobby and officially work as a **full-stack Java developer**.
+However, I'm mostly known for torturing my windows VM with LOTS of malwares >;3
 
-- * **Favourite games:** Baldi's Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa
-- * **Hobby:** I absolutely love drawing ponies! I think that it's the most perfect hobby for such a person like me 
+**I'm Wanadesura, but you can call me Lyra.**
 
-* Favourite ponies: Snowfall Frost, Octavia Melody and Twilight Sparkle
+<img align="right" alt="Wanadesura" width="190" src="https://github.com/Wanadesura/Wanadesura/blob/main/fluttershy.jpg" />
+
+***P.S I'm still single xDD 🎀***
+
+* **Country 🚩:** Belarus 
+* **Languages 💗:** English, Russian, Belorussian
+* **Birthday 🎂:** 04.06.2000 (Zodiac sign: Gemini)
+* **Gender 🦇:** Female :3
+* **Pronouns 🍷:** She\her <33
+* **Favourite color 🤍:** White 
+ * Profession 💻😼: Programmer
+* Programming languages that I use 💜: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Java right now) and a lil' bit of Assembly, PowerShell (Yup. PowerShell is a scripting language), HTML, Sass, CSS, PHP
+* **My certifications ✨:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA (It's not all of them here)
+
+- * **Favourite games 🎮 :** Baldi's Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa, Half-Life and Outlast.
+
+### What game do you usually play?
+Actually, I love Pony Town (It's literally a part of my life), + Ashes Town
+
+
+I also enjoy plenty of other activities, but we'll talk about them later~ 😼
 
 ### I literally have no idea on what to put here though, so you might as well just contact me :_) my discord: wanadesuraowo
-I love y'all! <33 (Anyway, there will be no codes or projects here.)
+I love y'all! <3 (Anyway, there will be no codes or projects here.)
 
-## By the way, if you're interested in Kubernetes but you can't learn it yourself, you can contact me, I'll share my very own tutorials with you <3
-* ![5e1ead4c4d1582672efe499d31965efb](https://github.com/user-attachments/assets/7d879dad-6030-4f52-8dbb-900bfdc212fb)
+### What about my favorite Youtubers?
+
+Well, I really enjoy watching [Siam Alam](https://www.youtube.com/@SiamAlamOfficial) in my free time.
+
