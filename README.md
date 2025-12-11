@@ -18,7 +18,7 @@ However, I'm mostly known for torturing my windows VM with LOTS of malwares >;3
 * **Favourite color 🤍:** White 
  * Profession 💻😼: Programmer
 * Programming languages that I use 💜: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Java right now) and a lil' bit of Assembly, PowerShell (Yup. PowerShell is a scripting language), HTML, Sass, CSS, PHP
-* **My certifications ✨:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA (It's not all of them here)
+* **My certificates: ✨:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA (It's not all of them here)
 
 - * **Favourite games 🎮 :** Baldi's Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa, Half-Life and Outlast.
 
@@ -35,8 +35,7 @@ I love y'all! <3 (Anyway, there will be no codes or projects here.)
 
 Well, I really enjoy watching [Siam Alam](https://www.youtube.com/@SiamAlamOfficial) in my free time.
 
-### Statistics
-[![Lyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanadesura&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 (Don't expect me to have good stats on this account XXDDD)
 
