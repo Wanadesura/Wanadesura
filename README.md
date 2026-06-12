@@ -28,7 +28,7 @@ Actually, I love Pony Town (It's literally a part of my life)
 
 I also enjoy plenty of other activities, but we'll talk about them later~ 😼
 
-### I have no idea on what to put here though, so you might as well just contact me :_) my discord: wanadesuraowo
+### I have no idea on what to put here though, so you might as well just contact me :_) my discord: wanadesurachaann
 I love y'all! <3 (Anyway, there will be no codes or projects here.)
 
 ### What about my favorite Youtubers?
