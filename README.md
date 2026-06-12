@@ -16,9 +16,9 @@ However, I'm mostly known for torturing my windows VM with LOTS of malwares >;3
 * **Gender 🦇:** Female :3
 * **Pronouns 🍷:** She\her
 * **Favourite color 🤍:** White 
- * Profession 💻😼: Programmer
+ * Profession 💻😼: Software Engineer
 * Programming languages that I use 💜: JS, Java, Miranda, C++, C+, C#, Python, Nim (Although my main language is Java right now) and a lil' bit of Assembly, PowerShell (Yup. PowerShell is a scripting language), HTML, Sass, CSS, PHP
-* **My certificates: ✨:** CompTIA PenTest+, Offensive Security Certified Professional (OSCP) and OSCP+, GIAC Penetration Tester (GPEN) Certification, GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certification, Infosec Certified Penetration Tester (CPT), CKA, CKAD, CKS, KCNA, KCSA (It's not all of them here)
+
 
 - * **Favourite games 🎮 :** Baldi's Basics in Education and Learning, League of Legends, Resident Evil 2, Silent Hill 1-4, Danganronpa, Half-Life and Outlast.
 
