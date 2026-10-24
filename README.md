@@ -8,7 +8,7 @@ However, I'm mostly known for torturing my windows VM with LOTS of malwares >;3
 
 <img align="right" alt="Wanadesura" width="199" src="https://github.com/Wanadesura/Wanadesura/blob/main/fluttershy.jpg" />
 
-***P.S I'm still single 🎀***
+***P.S I'm taken 🎀***
 
 * **Country 🚩:** Belarus 
 * **Languages 💗:** English, Russian, Belorussian, Latin
